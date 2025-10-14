@@ -1,0 +1,7 @@
+事件ID: 570
+事件名称: The Providence 2600 Meetup Group
+来源文件: Group 570.xml
+地点: Providence, RI
+
+原始内容:
+The Providence 2600 Meetup Group If you're interested in computer security, electronic gadgetry, communications, internet censorship, online privacy, and just technology exploration in general, you're invited to join us at our monthly meetings!
