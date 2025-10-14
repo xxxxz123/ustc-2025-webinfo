@@ -1,0 +1,47 @@
+=== 文档处理统计 ===
+
+总文档数: 5
+总原始词项数: 133
+总规范化词项数: 133
+检测到的常用词组总数: 98
+平均每文档原始词项数: 26.6
+平均每文档规范化词项数: 26.6
+平均每文档词组数: 19.6
+
+常用词组频率统计:
+  meetup_group: 3 次
+  a_local_affiliate: 1 次
+  title_="_http_://_www: 1 次
+  american_atheists: 1 次
+  href="http://groups.google.com/group/boston-atheists"_target="_blank"><a_href="http://groups.google.com/group/boston-atheists: 1 次
+  boston_atheists_meetup: 1 次
+  target_="__blank_">_http_://_www: 1 次
+  href_="_http_://_groups: 1 次
+  a_href="http://groups.google.com/group/boston-atheists: 1 次
+  target="_blank"><a_href="http://atheists.org"_title="http://atheists.org: 1 次
+  target_="__blank_">_http_://_atheists: 1 次
+  target_="__blank_">_http_://_groups: 1 次
+  boston_atheists: 1 次
+  target="_blank"><a_href="http://groups.google.com/group/: 1 次
+  the_boston_atheists_meetup_group: 1 次
+  google_group: 1 次
+  target="_blank">http://www.facebook.com/group.php?gid=92494277107</a></a>.</p>
+<p>our_google_group: 1 次
+  affiliate_of_american: 1 次
+  "_target="_blank"><a_href="http://atheists.org"_title="http://atheists.org"_target="_blank">http://atheists.org</a></a>.</p: 1 次
+  href_="_http_://_www: 1 次
+
+目录结构:
+generated_documents/
+├── raw_documents/              # 原始解析内容 (5 个文件)
+├── tokenized_documents/        # 分词后的文档 (5 个文件)
+├── normalized_documents/       # 规范化后的文档 (5 个文件)
+├── sample_event_retrieval.txt  # 检索用文档 (1 个文件)
+└── processing_statistics.txt   # 统计信息
+
+文件列表:
+- doc_12763_The_Boston_Atheists_Meetup_Gro: 42 个规范化词项, 26 个词组
+- doc_12929_Rhode_Island_Atheist_Society: 58 个规范化词项, 31 个词组
+- doc_13032_Atheists_of_Greater_Lowell: 4 个规范化词项, 6 个词组
+- doc_21458_The_Greater_Boston_Area_Weblog: 13 个规范化词项, 20 个词组
+- doc_570_The_Providence_2600_Meetup_Gro: 16 个规范化词项, 15 个词组

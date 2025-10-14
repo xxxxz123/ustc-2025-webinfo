@@ -1,0 +1,54 @@
+事件ID: 12763
+事件名称: The Boston Atheists Meetup Group
+来源文件: Group 12763.xml
+检测到的常用词组: a_local_affiliate, title_="_http_://_www, american_atheists, href="http://groups.google.com/group/boston-atheists"_target="_blank"><a_href="http://groups.google.com/group/boston-atheists, boston_atheists_meetup, target_="__blank_">_http_://_www, href_="_http_://_groups, a_href="http://groups.google.com/group/boston-atheists, target="_blank"><a_href="http://atheists.org"_title="http://atheists.org, target_="__blank_">_http_://_atheists, target_="__blank_">_http_://_groups, meetup_group, boston_atheists, target="_blank"><a_href="http://groups.google.com/group/, the_boston_atheists_meetup_group, google_group, target="_blank">http://www.facebook.com/group.php?gid=92494277107</a></a>.</p>
+<p>our_google_group, affiliate_of_american, "_target="_blank"><a_href="http://atheists.org"_title="http://atheists.org"_target="_blank">http://atheists.org</a></a>.</p, href_="_http_://_www, email_discussion, atheists_meetup, title_="_http_://_groups, the_ba, the_boston_atheists, atheists_meetup_group
+
+规范化结果 (共42个词项):
+boston_atheists boston_atheists local_affiliate href_href_target _blank href_title_target _blank find facebook href_target _blank href_target _blank href_title_target _blank member like participate email_discussion href_href_target _blank href_title_target _blank a_local_affiliate title_="_http_://_www american_atheists href="http://groups.google.com/group/boston-atheists"_target="_blank"><a_href="http://groups.google.com/group/boston-atheists boston_atheists_meetup target_="__blank_">_http_://_www href_="_http_://_groups target="_blank"><a_href="http://atheists.org"_title="http://atheists.org target_="__blank_">_http_://_atheists target_="__blank_">_http_://_groups meetup_group the_boston_atheists_meetup_group google_group target="_blank">http://www.facebook.com/group.php?gid=92494277107</a></a>.</p>
+<p>our_google_group affiliate_of_american "_target="_blank"><a_href="http://atheists.org"_title="http://atheists.org"_target="_blank">http://atheists.org</a></a>.</p href_="_http_://_www title_="_http_://_groups the_ba
+
+详细词项列表:
+  1. boston_atheists [PHRASE]
+  2. boston_atheists [PHRASE]
+  3. local_affiliate [PHRASE]
+  4. href_href_target [PHRASE]
+  5. _blank [PHRASE]
+  6. href_title_target [PHRASE]
+  7. _blank [PHRASE]
+  8. find
+  9. facebook
+ 10. href_target [PHRASE]
+ 11. _blank [PHRASE]
+ 12. href_target [PHRASE]
+ 13. _blank [PHRASE]
+ 14. href_title_target [PHRASE]
+ 15. _blank [PHRASE]
+ 16. member
+ 17. like
+ 18. participate
+ 19. email_discussion [PHRASE]
+ 20. href_href_target [PHRASE]
+ 21. _blank [PHRASE]
+ 22. href_title_target [PHRASE]
+ 23. _blank [PHRASE]
+ 24. a_local_affiliate [PHRASE]
+ 25. title_="_http_://_www [PHRASE]
+ 26. american_atheists [PHRASE]
+ 27. href="http://groups.google.com/group/boston-atheists"_target="_blank"><a_href="http://groups.google.com/group/boston-atheists [PHRASE]
+ 28. boston_atheists_meetup [PHRASE]
+ 29. target_="__blank_">_http_://_www [PHRASE]
+ 30. href_="_http_://_groups [PHRASE]
+ 31. target="_blank"><a_href="http://atheists.org"_title="http://atheists.org [PHRASE]
+ 32. target_="__blank_">_http_://_atheists [PHRASE]
+ 33. target_="__blank_">_http_://_groups [PHRASE]
+ 34. meetup_group [PHRASE]
+ 35. the_boston_atheists_meetup_group [PHRASE]
+ 36. google_group [PHRASE]
+ 37. target="_blank">http://www.facebook.com/group.php?gid=92494277107</a></a>.</p>
+<p>our_google_group [PHRASE]
+ 38. affiliate_of_american [PHRASE]
+ 39. "_target="_blank"><a_href="http://atheists.org"_title="http://atheists.org"_target="_blank">http://atheists.org</a></a>.</p [PHRASE]
+ 40. href_="_http_://_www [PHRASE]
+ 41. title_="_http_://_groups [PHRASE]
+ 42. the_ba [PHRASE]
