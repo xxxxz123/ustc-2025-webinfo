@@ -1,25 +1,23 @@
 事件ID: 570
 事件名称: The Providence 2600 Meetup Group
 来源文件: Group 570.xml
-检测到的常用词组: just_technology_exploration, invited_to_join, internet_censorship, our_monthly_meetings, technology_exploration, monthly_meetings, meetup_group, join_us, electronic_gadgetry, computer_security, exploration_in_general, the_providence, online_privacy, interested_in_computer, providence_2600_meetup_group
+检测到的常用词组: monthly_meetings, computer_security, electronic_gadgetry, online_privacy, internet_censorship, technology_exploration, meetup_group
 
-规范化结果 (共16个词项):
-computer_security electronic_gadgetry communication internet_censorship online_privacy technology_exploration monthly_meetings just_technology_exploration invited_to_join our_monthly_meetings meetup_group join_us exploration_in_general the_providence interested_in_computer providence_2600_meetup_group
+规范化结果 (共14个词项):
+providence meetup_group interested computer_security electronic_gadgetry communication internet_censorship online_privacy technology_exploration general invited join u monthly_meetings
 
 详细词项列表:
-  1. computer_security [PHRASE]
-  2. electronic_gadgetry [PHRASE]
-  3. communication
-  4. internet_censorship [PHRASE]
-  5. online_privacy [PHRASE]
-  6. technology_exploration [PHRASE]
-  7. monthly_meetings [PHRASE]
-  8. just_technology_exploration [PHRASE]
-  9. invited_to_join [PHRASE]
- 10. our_monthly_meetings [PHRASE]
- 11. meetup_group [PHRASE]
- 12. join_us [PHRASE]
- 13. exploration_in_general [PHRASE]
- 14. the_providence [PHRASE]
- 15. interested_in_computer [PHRASE]
- 16. providence_2600_meetup_group [PHRASE]
+  1. providence
+  2. meetup_group [PHRASE]
+  3. interested
+  4. computer_security [PHRASE]
+  5. electronic_gadgetry [PHRASE]
+  6. communication
+  7. internet_censorship [PHRASE]
+  8. online_privacy [PHRASE]
+  9. technology_exploration [PHRASE]
+ 10. general
+ 11. invited
+ 12. join
+ 13. u
+ 14. monthly_meetings [PHRASE]

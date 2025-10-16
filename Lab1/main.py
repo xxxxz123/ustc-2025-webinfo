@@ -1,5 +1,7 @@
 import os
 import json
+import nltk
+nltk.download('punkt_tab')
 from utils.parser import DataLoader
 from utils.tokenizer import TextTokenizer
 from utils.normalizer import TextNormalizer
@@ -307,6 +309,7 @@ def save_documents_in_structure(processed_documents, output_base_dir='generated_
     }
 
 def main():
+    nltk.download('averaged_perceptron_tagger_eng')
     """主函数"""
     print("Meetup文本处理系统")
     print("=" * 50)

@@ -1,67 +1,64 @@
 事件ID: 12929
 事件名称: Rhode Island Atheist Society
 来源文件: Group 12929.xml
-检测到的常用词组: atheist_society, this_state, the_advocate, rhode_island, rhode_island_atheist_society_welcome, rhode_island_atheist, a_tremendous_amount, an_official_organization, work_hard, a_positive_view, a_strong_activist, island_atheist_society, the_separation, the_"rhode_island_atheist_society, http_://_riatheist, our_group, 501c3_non_profit_organization, island_atheist, tremendous_amount, the_wall, religious_groups, the_non, podcast_http_://_www, a_growing_group, non_profit_organization, http://riatheist.com/__and_podcast_http://www.freethoughtri.com, a_strong_community, rhode_island_atheist_society, a_501c3_non_profit_organization, official_organization, rhode_island_atheist_society_".
+检测到的常用词组: positive_view, tremendous_amount, official_organization, strong_community, strong_activist
 
-规范化结果 (共58个词项):
-rhode_island_atheist_society rhode_island_atheist_society atheist agnostic humanist freethinker believe promoting positive_view godlessness building strong_community call support church ensure stay tremendous_amount power influence politics government believer rhode_island_atheist_society also formed official_organization rhode_island_atheist_society whether want strong_activist simply come chat please join this_state the_advocate rhode_island_atheist_society_welcome a_tremendous_amount an_official_organization work_hard a_positive_view a_strong_activist the_separation the_"rhode_island_atheist_society http_://_riatheist our_group 501c3_non_profit_organization the_wall religious_groups the_non podcast_http_://_www a_growing_group http://riatheist.com/__and_podcast_http://www.freethoughtri.com a_strong_community a_501c3_non_profit_organization rhode_island_atheist_society_".
+规范化结果 (共55个词项):
+rhode_island_atheist_society welcome rhode_island_atheist_society growing group atheist agnostic humanist freethinker believe promoting positive_view godlessness building strong_community call support separation church state work hard ensure wall stay strong religious group tremendous_amount power influence politics government advocate non believer state rhode_island_atheist_society non profit organization also formed official_organization rhode_island_atheist_society podcast whether want strong_activist simply come chat please join group
 
 详细词项列表:
   1. rhode_island_atheist_society [PHRASE]
-  2. rhode_island_atheist_society [PHRASE]
-  3. atheist
-  4. agnostic
-  5. humanist
-  6. freethinker
-  7. believe
-  8. promoting
-  9. positive_view [PHRASE]
- 10. godlessness
- 11. building
- 12. strong_community [PHRASE]
- 13. call
- 14. support
- 15. church
- 16. ensure
- 17. stay
- 18. tremendous_amount [PHRASE]
- 19. power
- 20. influence
- 21. politics
- 22. government
- 23. believer
- 24. rhode_island_atheist_society [PHRASE]
- 25. also
- 26. formed
- 27. official_organization [PHRASE]
- 28. rhode_island_atheist_society [PHRASE]
- 29. whether
- 30. want
- 31. strong_activist [PHRASE]
- 32. simply
- 33. come
- 34. chat
- 35. please
- 36. join
- 37. this_state [PHRASE]
- 38. the_advocate [PHRASE]
- 39. rhode_island_atheist_society_welcome [PHRASE]
- 40. a_tremendous_amount [PHRASE]
- 41. an_official_organization [PHRASE]
- 42. work_hard [PHRASE]
- 43. a_positive_view [PHRASE]
- 44. a_strong_activist [PHRASE]
- 45. the_separation [PHRASE]
- 46. the_"rhode_island_atheist_society [PHRASE]
- 47. http_://_riatheist [PHRASE]
- 48. our_group [PHRASE]
- 49. 501c3_non_profit_organization [PHRASE]
- 50. the_wall [PHRASE]
- 51. religious_groups [PHRASE]
- 52. the_non [PHRASE]
- 53. podcast_http_://_www [PHRASE]
- 54. a_growing_group [PHRASE]
- 55. http://riatheist.com/__and_podcast_http://www.freethoughtri.com [PHRASE]
- 56. a_strong_community [PHRASE]
- 57. a_501c3_non_profit_organization [PHRASE]
- 58. rhode_island_atheist_society_". [PHRASE]
+  2. welcome
+  3. rhode_island_atheist_society [PHRASE]
+  4. growing
+  5. group
+  6. atheist
+  7. agnostic
+  8. humanist
+  9. freethinker
+ 10. believe
+ 11. promoting
+ 12. positive_view [PHRASE]
+ 13. godlessness
+ 14. building
+ 15. strong_community [PHRASE]
+ 16. call
+ 17. support
+ 18. separation
+ 19. church
+ 20. state
+ 21. work
+ 22. hard
+ 23. ensure
+ 24. wall
+ 25. stay
+ 26. strong
+ 27. religious
+ 28. group
+ 29. tremendous_amount [PHRASE]
+ 30. power
+ 31. influence
+ 32. politics
+ 33. government
+ 34. advocate
+ 35. non
+ 36. believer
+ 37. state
+ 38. rhode_island_atheist_society [PHRASE]
+ 39. non
+ 40. profit
+ 41. organization
+ 42. also
+ 43. formed
+ 44. official_organization [PHRASE]
+ 45. rhode_island_atheist_society [PHRASE]
+ 46. podcast
+ 47. whether
+ 48. want
+ 49. strong_activist [PHRASE]
+ 50. simply
+ 51. come
+ 52. chat
+ 53. please
+ 54. join
+ 55. group

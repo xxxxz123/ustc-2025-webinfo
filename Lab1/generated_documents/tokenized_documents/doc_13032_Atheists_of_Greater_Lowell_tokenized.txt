@@ -1,14 +1,15 @@
 事件ID: 13032
 事件名称: Atheists of Greater Lowell
 来源文件: Group 13032.xml
-检测到的常用词组: meet_and_organize, atheists_of_greater, greater_lowell_meet, other_atheists, greater_lowell, lowell_meet
-词组检测方法: external
+词组检测方法: adaptive
 
-分词结果 (共4个词项):
-meet_and_organize atheists_of_greater greater_lowell_meet other_atheists
+分词结果 (共6个词项):
+atheists greater lowell meet organize atheists
 
 详细词项列表:
-  1. meet_and_organize [PHRASE]
-  2. atheists_of_greater [PHRASE]
-  3. greater_lowell_meet [PHRASE]
-  4. other_atheists [PHRASE]
+  1. atheists
+  2. greater
+  3. lowell
+  4. meet
+  5. organize
+  6. atheists

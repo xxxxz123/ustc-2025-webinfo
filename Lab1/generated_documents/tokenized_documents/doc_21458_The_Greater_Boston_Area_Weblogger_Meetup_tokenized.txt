@@ -1,23 +1,31 @@
 事件ID: 21458
 事件名称: The Greater Boston Area Weblogger Meetup Group
 来源文件: Group 21458.xml
-检测到的常用词组: the_greater_boston_area, greater_boston_area_weblogger_meetup_group, topics_discussed_range, a_group, blog_software, blog_content, meetup_group, interest_levels, all_interest_levels, the_greater_boston_area_weblogger_meetup_group, greater_boston_area, meeting_others, greater_boston, area_weblogger, area_weblogger_meetup, weblogger_meetup, interested_in_blogging, boston_area, boston_area_weblogger, weblogger_meetup_group
-词组检测方法: external
+检测到的常用词组: blog_content, interest_levels, meetup_group
+词组检测方法: adaptive
 
-分词结果 (共13个词项):
-people blog_content interest_levels welcome the_greater_boston_area greater_boston_area_weblogger_meetup_group topics_discussed_range a_group blog_software all_interest_levels the_greater_boston_area_weblogger_meetup_group meeting_others interested_in_blogging
+分词结果 (共21个词项):
+greater boston area weblogger meetup_group group people interested blogging meeting others interested blogging topics discussed range blog_content blog software interest_levels welcome
 
 详细词项列表:
-  1. people
-  2. blog_content [PHRASE]
-  3. interest_levels [PHRASE]
-  4. welcome
-  5. the_greater_boston_area [PHRASE]
-  6. greater_boston_area_weblogger_meetup_group [PHRASE]
-  7. topics_discussed_range [PHRASE]
-  8. a_group [PHRASE]
-  9. blog_software [PHRASE]
- 10. all_interest_levels [PHRASE]
- 11. the_greater_boston_area_weblogger_meetup_group [PHRASE]
- 12. meeting_others [PHRASE]
- 13. interested_in_blogging [PHRASE]
+  1. greater
+  2. boston
+  3. area
+  4. weblogger
+  5. meetup_group [PHRASE]
+  6. group
+  7. people
+  8. interested
+  9. blogging
+ 10. meeting
+ 11. others
+ 12. interested
+ 13. blogging
+ 14. topics
+ 15. discussed
+ 16. range
+ 17. blog_content [PHRASE]
+ 18. blog
+ 19. software
+ 20. interest_levels [PHRASE]
+ 21. welcome
